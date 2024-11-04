@@ -1,0 +1,25 @@
+.contact{
+    background-color: #FCEAE9;
+    height: 100vh;
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper{
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    gap: 10px;
+}
+.wrapper button{
+    padding: 5px 5PX;
+    border: none;
+    width: 50vh;
+    background-color: #FF3986;
+    border-radius: 7px 7px;
+    font-size: 15px;
+    font-weight: 15px;
+    color: #FFFFFF;
+}
